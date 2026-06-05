@@ -24,8 +24,18 @@ Tables: ID - Running Number, Created Date: First Insert Date, Modified Daye: Las
 
 About the libraries used 
 Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. It has a large collection of libraries and is one of the most popular languages used by computer programmers. It is also used in AI.
+
+
 Pandas is a software library written for the Python programming language. Pandas is mainly used for data analysis and associated manipulation of tabular data in DataFrames. Pandas allows importing data from various file formats and databases like MySQL.
+
+
 Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter.
+
+
 NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions including generation of random numbers giving limits.
+
+
 Tkinter is a Python binding to the Tk GUI toolkit. It is Python's de facto standard GUI. Tkinter is included with standard Linux, Microsoft Windows and macOS installs of Python.
+
+
 MySQL is an open-source relational database management system (RDBMS).A relational database organizes data into one or more data tables in which data may be related to each other; these relations help structure the data.  MySQL is used with other programs to implement applications that need relational database capability.
